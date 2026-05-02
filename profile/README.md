@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/logo.png" alt="FR Enterprises" width="180">
+<img src="profile/logo.jpg" alt="FR Enterprises" width="180">
 
 ### FR Enterprises
 
