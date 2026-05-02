@@ -6,8 +6,8 @@ A small portfolio of software ventures and research programs. No outside capital
 
 Public portfolio:
 
-- [anchor](https://github.com/fr-enterprises/anchor) — local proxy that caches AI API calls and tracks spend
-- [agent-budget](https://github.com/fr-enterprises/agent-budget) — Claude Code session cost dashboard
+- [anchor](https://github.com/fr-enterprises/anchor): local proxy that caches AI API calls and tracks spend
+- [agent-budget](https://github.com/fr-enterprises/agent-budget): Claude Code session cost dashboard
 
 Private:
 
