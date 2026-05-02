@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/fr-enterprises/.github/raw/main/profile/logo.jpg" alt="FR Enterprises" width="180">
-
 ### FR Enterprises
 
 A private holding. Zürich, est. 2024.
